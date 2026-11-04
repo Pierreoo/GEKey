@@ -1,0 +1,17 @@
+Category-wise Evaluation Results
+========================================
+airplane     | Coverage: 97.06 | mIoU: 67.56
+bed          | Coverage: 98.32 | mIoU: 27.91
+bottle       | Coverage: 97.11 | mIoU: 38.50
+cap          | Coverage: 93.55 | mIoU: 17.44
+car          | Coverage: 93.97 | mIoU: 40.40
+chair        | Coverage: 97.13 | mIoU: 41.05
+guitar       | Coverage: 97.82 | mIoU: 64.57
+helmet       | Coverage: 89.70 | mIoU: 22.87
+knife        | Coverage: 98.26 | mIoU: 45.22
+motorcycle   | Coverage: 94.16 | mIoU: 37.05
+mug          | Coverage: 95.23 | mIoU: 23.03
+table        | Coverage: 97.99 | mIoU: 37.99
+vessel       | Coverage: 97.08 | mIoU: 48.45
+========================================
+Overall Avg   | Coverage: 95.95 | mIoU: 39.39

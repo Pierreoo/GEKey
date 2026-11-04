@@ -1,0 +1,105 @@
+Category-wise Evaluation Results
+======================================================================
+
+AIRPLANE
+Coverage: 99.2295
+mIoU:     80.4839
+Graph Time:      total=7.4472s   avg=0.0073s
+Eccentricity Time:    total=79.3066s avg=0.0777s
+Maxima Time: total=12.1851s avg=0.0119s
+----------------------------------------------------------------------
+BED
+Coverage: 98.5462
+mIoU:     45.0014
+Graph Time:      total=1.0420s   avg=0.0071s
+Eccentricity Time:    total=11.6691s avg=0.0799s
+Maxima Time: total=2.2755s avg=0.0156s
+----------------------------------------------------------------------
+BOTTLE
+Coverage: 96.7284
+mIoU:     39.8305
+Graph Time:      total=2.4474s   avg=0.0064s
+Eccentricity Time:    total=30.2157s avg=0.0795s
+Maxima Time: total=13.5510s avg=0.0357s
+----------------------------------------------------------------------
+CAP
+Coverage: 93.2423
+mIoU:     30.1464
+Graph Time:      total=0.2704s   avg=0.0071s
+Eccentricity Time:    total=3.0352s avg=0.0799s
+Maxima Time: total=0.2834s avg=0.0075s
+----------------------------------------------------------------------
+CAR
+Coverage: 95.4806
+mIoU:     31.8329
+Graph Time:      total=7.6546s   avg=0.0076s
+Eccentricity Time:    total=84.8177s avg=0.0846s
+Maxima Time: total=36.6498s avg=0.0366s
+----------------------------------------------------------------------
+CHAIR
+Coverage: 97.5616
+mIoU:     56.9401
+Graph Time:      total=7.4219s   avg=0.0074s
+Eccentricity Time:    total=82.6234s avg=0.0827s
+Maxima Time: total=16.8590s avg=0.0169s
+----------------------------------------------------------------------
+GUITAR
+Coverage: 98.6789
+mIoU:     67.0849
+Graph Time:      total=4.6676s   avg=0.0067s
+Eccentricity Time:    total=56.8483s avg=0.0816s
+Maxima Time: total=28.3233s avg=0.0406s
+----------------------------------------------------------------------
+HELMET
+Coverage: 88.9785
+mIoU:     20.6763
+Graph Time:      total=0.7291s   avg=0.0081s
+Eccentricity Time:    total=7.6106s avg=0.0846s
+Maxima Time: total=0.6431s avg=0.0071s
+----------------------------------------------------------------------
+KNIFE
+Coverage: 99.5861
+mIoU:     49.9732
+Graph Time:      total=1.9683s   avg=0.0073s
+Eccentricity Time:    total=21.2424s avg=0.0787s
+Maxima Time: total=10.9062s avg=0.0404s
+----------------------------------------------------------------------
+MOTORCYCLE
+Coverage: 94.7275
+mIoU:     46.8678
+Graph Time:      total=2.2342s   avg=0.0075s
+Eccentricity Time:    total=25.0606s avg=0.0841s
+Maxima Time: total=8.3051s avg=0.0279s
+----------------------------------------------------------------------
+MUG
+Coverage: 95.9405
+mIoU:     25.4550
+Graph Time:      total=1.3404s   avg=0.0072s
+Eccentricity Time:    total=15.4030s avg=0.0828s
+Maxima Time: total=1.2911s avg=0.0069s
+----------------------------------------------------------------------
+TABLE
+Coverage: 98.5199
+mIoU:     62.5566
+Graph Time:      total=8.1084s   avg=0.0072s
+Eccentricity Time:    total=91.6210s avg=0.0815s
+Maxima Time: total=28.1850s avg=0.0251s
+----------------------------------------------------------------------
+VESSEL
+Coverage: 98.1958
+mIoU:     49.6206
+Graph Time:      total=6.5632s   avg=0.0072s
+Eccentricity Time:    total=75.5024s avg=0.0830s
+Maxima Time: total=31.8261s avg=0.0350s
+----------------------------------------------------------------------
+
+OVERALL SUMMARY
+======================================================================
+Mean Coverage: 96.5704
+Mean mIoU:     46.6515
+Mean Total Graph Time:      3.9919s
+Mean Total Eccentricity Time:    44.9966s
+Mean Total Maxima Time: 14.7141s
+Mean Avg Graph Time:        0.0073s
+Mean Avg Eccentricity Time:      0.0816s
+Mean Avg Maxima Time:   0.0236s
