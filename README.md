@@ -11,9 +11,7 @@
   <a href="https://www.minesparis.psl.eu/en/annuaire-de-la-recherche/chercheur/beatriz-marcotegui-2/">Beatriz&nbsp;Marcotegui</a>
   <br><br>
   <a href="https://pierreoo.github.io/projects/gekey/"><img src="https://img.shields.io/badge/Project%20Page-GEKey-blue.svg?style=for-the-badge" alt="Project Page" height="24"></a>
-  <!-- Once the preprint is live:
-       <a href="https://arxiv.org/abs/XXXX.XXXXX"><img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg?style=for-the-badge" alt="arXiv" height="24"></a> -->
-  <img src="https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg?style=for-the-badge" alt="arXiv" height="24">
+  <a href="https://arxiv.org/abs/2611.07677"><img src="https://img.shields.io/badge/arXiv-2611.07677-b31b1b.svg?style=for-the-badge" alt="arXiv" height="24"></a>
   <a href="https://drive.google.com/drive/folders/1B7YmBxVkaxKoyd8Cf3xEZ4Unb9vnyPDi?usp=sharing"><img src="https://img.shields.io/badge/Models-Google%20Drive-seagreen.svg?style=for-the-badge" alt="Pre-trained Models" height="24"></a>
   <a href="https://bmvc2026.bmva.org/"><img src="https://img.shields.io/badge/Conference-BMVC%20Oral%202026-rebeccapurple.svg?style=for-the-badge" alt="BMVC Oral 2026" height="24"></a>
 </p>
@@ -183,5 +181,10 @@ The datasets listed above are not covered by these licenses and remain subject t
 
 If you find *GEKey* useful to your research, please consider citing:
 ```bibtex
-
+@inproceedings{onghena2026gekey,
+    title     = {{GEKey}: Learning Geodesic Eccentric {3D} Keypoints via Self-Supervision},
+    author    = {Onghena, Pierre and Velasco-Forero, Santiago and Marcotegui, Beatriz},
+    booktitle = {British Machine Vision Conference (BMVC)},
+    year      = {2026}
+}
 ```
